@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 980" role="img" aria-labelledby="title desc">
+  <title id="title">Hassan Zeidan portrait placeholder</title>
+  <desc id="desc">Abstract portrait placeholder with the initials HZ</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#162940"/>
+      <stop offset="1" stop-color="#0a1422"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="50%" cy="34%" r="62%">
+      <stop offset="0" stop-color="#56d8c5" stop-opacity=".42"/>
+      <stop offset="1" stop-color="#56d8c5" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="800" height="980" fill="url(#bg)"/>
+  <rect width="800" height="980" fill="url(#glow)"/>
+  <circle cx="400" cy="350" r="145" fill="#dfeaf2" opacity=".92"/>
+  <path d="M120 980c15-250 112-389 280-389s265 139 280 389" fill="#dfeaf2" opacity=".92"/>
+  <circle cx="400" cy="480" r="285" fill="none" stroke="#7aa7ff" stroke-opacity=".2" stroke-width="2"/>
+  <text x="400" y="890" fill="#08101d" font-family="Arial, sans-serif" font-size="86" font-weight="700" text-anchor="middle">HZ</text>
+</svg>
